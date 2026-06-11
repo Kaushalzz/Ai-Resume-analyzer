@@ -1,0 +1,8 @@
+Software Intern - Payoneer Bangalore
+
+Requirements:
+- Backend Development
+- DSA
+- AI/ML
+- REST APIs
+- Git/GitHub
